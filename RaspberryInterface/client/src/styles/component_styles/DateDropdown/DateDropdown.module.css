@@ -1,0 +1,8 @@
+.menu{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    max-height: 20vh;
+    width: 40%;
+}
+

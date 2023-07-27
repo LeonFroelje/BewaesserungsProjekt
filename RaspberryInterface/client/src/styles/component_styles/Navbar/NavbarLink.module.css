@@ -1,0 +1,20 @@
+.link{
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    color: #FFF;
+    height: 100%;
+}
+
+.iconContainer{
+    margin-top: .4rem;
+    font-size: 1.7rem;
+}
+
+.nameContainer{
+    font-size: 1.1rem;
+}
+
+.active{
+    border-bottom: #EEE .13rem solid;
+}

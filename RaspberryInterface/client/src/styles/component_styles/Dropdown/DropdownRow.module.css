@@ -1,0 +1,11 @@
+.row{
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0rem 1rem;
+    border: #666a70 solid 1px;
+}
+
+.rowName{
+    padding: .5rem 0rem;
+    width: 100%;
+}

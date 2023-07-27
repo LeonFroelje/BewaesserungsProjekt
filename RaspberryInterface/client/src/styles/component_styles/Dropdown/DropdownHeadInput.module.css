@@ -1,0 +1,28 @@
+.headInput{
+    height: 2rem;
+    text-indent: .5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: .1rem #666a70 solid;
+}
+
+.dropIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 0rem 0.5rem;
+    background-color: #777b81;
+}
+
+.inputField{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.placeholder{
+    opacity: .54;
+}

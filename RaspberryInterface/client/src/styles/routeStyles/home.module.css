@@ -1,0 +1,19 @@
+.Home {
+  background-color: #393E46;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 5rem;
+  padding: 2rem 3rem 2rem 3rem;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  overflow: auto;
+  height: 100%;
+}
+
+
+.chartContainer{
+  width: 90%;
+  align-self: center;
+}

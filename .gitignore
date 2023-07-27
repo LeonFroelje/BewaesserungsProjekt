@@ -1,0 +1,13 @@
+RaspberryInterface/node_modules
+RaspberryInterface/server/node_modules/*
+RaspberryInterface/server/log/*
+RaspberryInterface/server/db.json
+
+RaspberryInterface/client/src/routes/lel.json
+
+BewaesserungsAnlage/.pio
+BewaesserungsAnlage/.vscode
+BewaesserungsAnlage/.lib
+BewaesserungsAnlage/platformio
+BewaesserungsAnlage/lel.json
+.vscode

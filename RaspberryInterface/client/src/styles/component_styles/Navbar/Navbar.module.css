@@ -1,0 +1,19 @@
+.linkContainer{
+    display: flex;
+    gap: 2rem;
+}
+
+.warningContainer{
+    background-color: #21252b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 4rem;
+    font-size: 2.5rem;
+    color: #FF2E63;
+}
+
+.linkContainer > a{
+    margin-left: 1rem;
+}

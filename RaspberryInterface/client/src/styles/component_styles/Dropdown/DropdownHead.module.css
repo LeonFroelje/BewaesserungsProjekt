@@ -1,0 +1,15 @@
+.input{
+    height: 2rem;
+    width: 80%;
+}
+
+.head{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.label{
+    padding: .5rem 0rem;
+    color: #FFF;
+}

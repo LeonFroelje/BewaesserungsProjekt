@@ -1,0 +1,12 @@
+.body{
+    height: auto;
+    overflow: auto;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    /*padding: .3rem 1rem;*/
+    background-color: /*#444850*/#4b4f55;
+}
+
+.body::-webkit-scrollbar {
+    display: none;
+}

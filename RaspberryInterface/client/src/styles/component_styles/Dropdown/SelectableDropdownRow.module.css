@@ -1,0 +1,9 @@
+.row{
+    padding: .3rem 1rem;
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+.selected{
+    background-color: #666a70 ;
+}
